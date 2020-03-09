@@ -5,7 +5,7 @@
       <router-link to="/about">Nosotros</router-link>
       <router-link to="/servicios">Servicios</router-link>
       <router-link to="/hoteles">Hoteles</router-link>
-      <router-link to="/contacto">Contactanos</router-link>
+      <router-link to="/contacto">Contáctanos</router-link>
 
     </div>
     <router-view />
